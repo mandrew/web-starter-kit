@@ -1,5 +1,6 @@
 {
 	"name": "mandrew/web-starter-kit",
+	"type": "silverstripe-module",
 	"description": "Google Web starter kit integrated with SilverStripe",
 	"homepage": "http://github.com/mandrew/web-starter-kit",
 	"keywords": ["google", "silverstripe", "theme"],
