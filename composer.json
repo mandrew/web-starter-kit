@@ -2,7 +2,7 @@
 	"name": "mandrew/web-starter-kit",
 	"description": "Google Web starter kit integrated with SilverStripe",
 	"homepage": "http://github.com/mandrew/web-starter-kit",
-	"keywords": ["silverstripe", "theme"],
+	"keywords": ["google", "silverstripe", "theme"],
 	"license": "BSD-3-Clause",
 	"support": {
 	    "issues": "http://github.com/mandrew/web-starter-kit/issues"
